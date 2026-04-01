@@ -144,4 +144,6 @@ A PowerPoint summary of the full analysis is available in:
 
 **Parth**  
 
+
+If you like this project, feel free to ⭐ the repository.
 ---
